@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there Noobi Here👋
 
+Oh I see this Is my Profil
+I want to learn JS!
 <!--
 **MkySarte/Mkysarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
