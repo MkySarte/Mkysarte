@@ -1,7 +1,7 @@
-## Hi there Noobi Here👋
+## Hi there, Noobi Here👋
 
-Oh I see this Is my Profil
-I want to learn JS!
+Oh I see this is my profil.
+My Roadmap HTML, CSS and JS. For now, and learn to use gitHub lol.
 <!--
 **MkySarte/Mkysarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
